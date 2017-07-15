@@ -1,0 +1,16 @@
+# test
+country_event = {
+	id = usa.25
+	title = test.1.t
+	desc = test.1.d
+	picture = event_test
+
+	option = {
+		name = usa_test.1.a
+		add_political_power = 100
+	}
+	option = {
+		name = usa_test.1.b
+		add_political_power = -100
+	}
+}
