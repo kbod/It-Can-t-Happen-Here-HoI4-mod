@@ -2951,7 +2951,7 @@ l_english:
  usa_test.1.a "Nice job, it worked!"
  usa_test.1.b "What the heck?"
  usaElection.36.t "Election of 1936"
- usaElection.36.d ""
- usaElection.36.a ""
- usaElection.36.b ""
- usaElection.36.c ""
+ usaElection.36.d "It's a tight race between Walt Trowbridge, Buzz Windrip, and Franklin D. Roosevelt. Buzz seems to be the front runner, but some clever political manuevers from Trowbridge or Roosevelt could win them the elcetion
+ usaElection.36.a "Let the winds of change sweep the nation in a new direction"
+ usaElection.36.b "Keep the status quo"
+ usaElection.36.c "Remind the people of Roosevelt's successes"
