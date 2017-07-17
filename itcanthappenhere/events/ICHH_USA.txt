@@ -21,8 +21,8 @@ country_event = {
 
 # New Election Event based on novel
 country_event = {
-	id = usa.26
-	title = Election of 1936
+	id = usaElection.36
+	title = usaElection.36.t
 	desc = Tight race between Walt Trowbridge, Buzz Windrip, and Franklin D. Roosevelt. Buzz seems to be the front runner, but some clever political manuevers from Trowbridge or Roosevelt could win them the elcetion
 	picture = report_event_usa_election_generic
 
