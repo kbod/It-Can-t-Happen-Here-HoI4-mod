@@ -23,7 +23,7 @@ country_event = {
 country_event = {
 	id = usaElection.36
 	title = usaElection.36.t
-	desc = Tight race between Walt Trowbridge, Buzz Windrip, and Franklin D. Roosevelt. Buzz seems to be the front runner, but some clever political manuevers from Trowbridge or Roosevelt could win them the elcetion
+	desc = usaElection.36.d
 	picture = report_event_usa_election_generic
 
 	fire_only_once = yes
@@ -36,7 +36,7 @@ country_event = {
 	}
 
 	option = {
-		name = Hand Windrip the election
+		name = usaElection.36.a
 		
 		immeadiate = {
 		
