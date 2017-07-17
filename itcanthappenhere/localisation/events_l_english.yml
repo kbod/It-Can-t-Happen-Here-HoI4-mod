@@ -2950,3 +2950,8 @@ l_english:
  usa_test.1.d "Here's a description"
  usa_test.1.a "Nice job, it worked!"
  usa_test.1.b "What the heck?"
+ usaElection.36.t "Election of 1936"
+ usaElection.36.d ""
+ usaElection.36.a ""
+ usaElection.36.b ""
+ usaElection.36.c ""
