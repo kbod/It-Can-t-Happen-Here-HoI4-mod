@@ -1,3 +1,7 @@
+##########################
+# nu USA Mod Events
+##########################
+
 # test
 country_event = {
 	id = usa.25
@@ -12,5 +16,19 @@ country_event = {
 	option = {
 		name = usa_test.1.b
 		add_political_power = -100
+	}
+}
+
+# New Election Event based on novel
+country_event = {
+	id = usa.26
+	title = Election of 1936
+	desc = Tight race between Walt Trowbridge, Buzz Windrip, and Franklin D. Roosevelt. Buzz seems to be the front runner, but some clever political manuevers from Trowbridge or Roosevelt could win them the elcetion
+	picture = report_event_usa_election_generic
+
+	is_triggered_only = date > 1936.6.11
+
+	option = {
+		name = Hand Windrip the election
 	}
 }
